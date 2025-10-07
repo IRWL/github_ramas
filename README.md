@@ -6,3 +6,5 @@ este cambio es para probarlo el push en git
 envio de datos 
 ## kjjjj 
 jdjdj
+## cambio pull
+este cambio es para el pull
